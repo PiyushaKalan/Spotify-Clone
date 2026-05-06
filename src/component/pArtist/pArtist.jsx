@@ -1,5 +1,5 @@
 import React from 'react'
-import './PArtist.css'
+import './pArtist.css'
 import ACard from '../aCard/aCard'
 const PArtist = ({setCurrentPage, setCurrentEle}) => {
   return (
