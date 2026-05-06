@@ -1,0 +1,14 @@
+.main{
+    /* border: 2px solid white; */
+    width: 80%;
+    overflow-y:scroll;
+    overflow-x: scroll;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom,#171717,#151515);
+ scrollbar-width: thin;
+ scroll-behavior: smooth;
+ 
+
+}
+ 

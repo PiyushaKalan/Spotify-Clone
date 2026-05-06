@@ -1,0 +1,15 @@
+.trend-main-containent{
+    /* border: 2px solid blue; */
+    width: 98%;
+    height: 54%;
+    margin: auto;
+    padding: 18px 0;
+    
+}
+.trend-main-containent span{
+
+    font-size: 27px;
+    font-weight: 650;
+    color: white;
+   
+}
