@@ -2,16 +2,16 @@
  import img2 from '../assets/images/img2.png'
  import img3 from '../assets/images/img3.png'
  import img4 from '../assets/images/img4.png'
-//  import img5 from '../assets/images/img5.png'
+ import img5 from '../assets/images/img5.png'
  import img6 from '../assets/images/img6.png'
  import img7 from '../assets/images/img7.png'
-//  import img8 from '../assets/images/img8.png'
+ import img8 from '../assets/images/img8.png'
 import img9 from '../assets/images/img9.png'
 import img10 from '../assets/images/img10.png'
-//  import img11 from '../assets/images/img11.png'
+ import img11 from '../assets/images/img11.png'
 import img12 from '../assets/images/img12.png'
 import img13 from '../assets/images/img13.png'
-//  import img14 from '../assets/images/img14.png'
+import img14 from '../assets/images/img14.png'
 import img15 from '../assets/images/img15.png'
 import img16 from '../assets/images/img16.png'
 import img17 from '../assets/images/img17.png'
@@ -34,59 +34,58 @@ import img19 from '../assets/images/img19.png'
  import musicFile9 from '../assets/media/song9.mp3'
  import musicFile10 from '../assets/media/song10.mp3'
 //  import musicFile11 from '../assets/media/song11.mp3'
- import musicFile12 from '../assets/media/song12.mp3'
- import musicFile13 from '../assets/media/song13.mp3'
- import musicFile14 from '../assets/media/song14.mp3'
+import musicFile12 from '../assets/media/song12.mp3'
+import musicFile13 from '../assets/media/song13.mp3'
+import musicFile14 from '../assets/media/song14.mp3'
+import musicFile15 from '../assets/media/song15.mp3'
+import musicFile16 from '../assets/media/song16.mp3'
+import musicFile17 from '../assets/media/song17.mp3'
+import musicFile18 from '../assets/media/song18.mp3'
  export const TrendingCardData = [
-  // {
-  //   imgSrc: img1,
-  //   heading:"Please Please Please",
-  //   subHeading:"Sabrina Carpenter",
-  //   musicFile: musicFile1,
-
-  // },
+  
    {
-    imgSrc: img2,
-    heading:"Good Life (with G-Eazy & Kehlani)",
-    subHeading:"with G-Eazy & Kehlani",
-    musicFile: musicFile2,
+    imgSrc: img14,
+    heading:"Sunflower-spiderman:Into the spider-verse",
+    subHeading:"Post Malone",
+    musicFile: musicFile7,
   },
+
+  //  {
+  //   imgSrc: img2,
+  //   heading:"Good Life (with G-Eazy & Kehlani)",
+  //   subHeading:"with G-Eazy & Kehlani",
+  //   musicFile: musicFile2,
+  // },
    {
     imgSrc: img17,
     heading:"Timeless",
     subHeading:"The Weeknd,Playboi Carti",
     musicFile: musicFile10,
   },
-   {
-    imgSrc: img19,
-    heading:"ReawakeR (Feat. Felix. of Stray Kids)",
-    subHeading:"LiSA,Felix ",
-    musicFile: musicFile14,
-  },
   //  {
-  //   imgSrc: img5,
-  //   heading:"Khatta Flow",
-  //   subHeading:"Seedhe Maut",
-  //   musicFile: musicFile5,
+  //   imgSrc: img19,
+  //   heading:"ReawakeR (Feat. Felix. of Stray Kids)",
+  //   subHeading:"LiSA,Felix ",
+  //   musicFile: musicFile14,
   // },
+   {
+    imgSrc: img5,
+    heading:"Badtameez Dil",
+    subHeading:"Pritam,Benny Dayal, Shefali Alvares,Amitabh Bhattacharaya",
+    musicFile: musicFile15,
+  },
    {
     imgSrc: img6,
     heading:"Side To Side",
     subHeading:"Ariana Grande",
     musicFile: musicFile6,
   },
-  // {
-  //   imgSrc: img7,
-  //   heading:"Closer",
-  //   subHeading:"Chainsmoker, Halsey",
-  //   musicFile: musicFile6,
-  // },
-  // {
-  //   imgSrc: img8,
-  //   heading:"ReawakeR",
-  //   subHeading:"LiSA",
-  //   musicFile: musicFile6,
-  // },
+  {
+    imgSrc: img8,
+    heading:"Watermelon Sugar",
+    subHeading:"Harry Styles",
+    musicFile: musicFile16,
+  },
   // {
   //   imgSrc: img9,
   //   heading:"We cant't be friends",
@@ -99,12 +98,25 @@ import img19 from '../assets/images/img19.png'
   //   subHeading:"Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armann Khan, Roshan, Irshad kamil, Sahir ludhianvi",
   //   musicFile: musicFile6,
   // },
-  // {
-  //   imgSrc: img11,
-  //   heading:"I Guess",
-  //   subHeading:"KR$NA",
-  //   musicFile: musicFile6,
-  // },
+  {
+    imgSrc: img11,
+    heading:"See you again",
+    subHeading:"Charlie Puth,Wiz Khalifa",
+    musicFile: musicFile17,
+  },
+    {
+    imgSrc: img12,
+    heading:"A Thousand Years",
+    subHeading:"John Michael Howell, JVKE, ZVC",
+    musicFile: musicFile18,
+  },
+    {
+    imgSrc: img1,
+    heading:"Please Please Please",
+    subHeading:"Sabrina Carpenter",
+    musicFile: musicFile1,
+
+  },
   {
     imgSrc: img18,
     heading:"Startboy",
@@ -135,6 +147,7 @@ import img19 from '../assets/images/img19.png'
     subHeading:"Justin bieber, Ludacris",
     musicFile: musicFile12, 
   },
+
   
 ]
 export const artistList =[

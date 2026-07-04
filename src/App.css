@@ -10,3 +10,23 @@
     
 
 }
+@media (max-width: 1024px){
+    .main-section-content-container{
+        flex-direction: column;
+        height: auto;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .mainContainer{
+        height: auto;
+    }
+}
+
+@media (max-width: 768px){
+    .main-section-content-container{
+        flex-direction: column;
+        height: auto;
+        padding: 5px;
+    }
+}

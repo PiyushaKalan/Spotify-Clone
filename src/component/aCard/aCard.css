@@ -59,3 +59,26 @@
 .ACard:hover #playButton{
     display: flex;
 }
+@media (max-width: 1024px){
+
+    .artist-container{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .ACard{
+        width: 30%;
+    }
+}
+
+@media (max-width: 768px){
+
+    .ACard{
+        width: 45%;
+    }
+
+    .ACard img{
+     width: 100%;
+     height: auto;
+    }
+}

@@ -96,3 +96,21 @@
   outline: none;
 
 }
+@media (max-width: 1024px){
+
+    .SMContainer{
+        width: 100%;
+        display:none;
+    }
+}
+
+@media (max-width: 768px){
+
+    .SMContainer{
+        width: 100%;
+    }
+
+    .sidebar-middle-sec{
+        height: auto;
+    }
+}

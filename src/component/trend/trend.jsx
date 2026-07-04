@@ -4,7 +4,7 @@ import TCard from '../tCard/tCard'
 const Trend = ({setCurrentEle , setCurrentPage}) => {
   return (
     <div className='trend-main-containent'>
-      <span>Trending Songs</span>
+      <span>Recommended Songs</span>
       
       <TCard setCurrentPage={setCurrentPage} setCurrentEle={setCurrentEle}/>
     </div>

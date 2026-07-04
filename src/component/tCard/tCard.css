@@ -40,3 +40,26 @@
     color: #b3b3b3;
     
 }
+@media (max-width: 1024px){
+
+    .trending-cards{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card-container{
+        width: 30%;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 768px){
+
+    .card-container{
+        width: 45%;
+    }
+
+    .card-container img{
+        width: 100%;
+    }
+}
